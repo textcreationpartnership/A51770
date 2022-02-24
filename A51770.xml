@@ -1,0 +1,1121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters writen [sic] by Mrs. Manley to which is added a letter from a supposed nun in Portugal to a gentleman in France, in imitation of the nun's five letters in print, by Colonel Pack.</title>
+            <author>Manley, Mrs. (Mary de la Rivière), 1663-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 50 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51770</idno>
+            <idno type="STC">Wing M434</idno>
+            <idno type="STC">ESTC R7066</idno>
+            <idno type="EEBO-CITATION">11967406</idno>
+            <idno type="OCLC">ocm 11967406</idno>
+            <idno type="VID">51766</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51770)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51766)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 36:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters writen [sic] by Mrs. Manley to which is added a letter from a supposed nun in Portugal to a gentleman in France, in imitation of the nun's five letters in print, by Colonel Pack.</title>
+                  <author>Manley, Mrs. (Mary de la Rivière), 1663-1724.</author>
+               </titleStmt>
+               <extent>[8], 88 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.B. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51766:1" rendition="simple:additions"/>
+            <pb facs="tcp:51766:1" rendition="simple:additions"/>
+            <p>LETTERS Writen by Mrs. <hi>MANLEY.</hi> To which is Added A LETTER
+from a ſuppoſed NUN in <hi>Portugal,</hi> to a GENTLEMAN in
+<hi>France,</hi> in Imitation of the NUN's Five LETTERS in Print, by Co<g ref="char:EOLhyphen"/>lonel
+<hi>Pack.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. B.</hi> and Sold by the
+Book-Sellers of <hi>London</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> 1696.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:51766:2"/>
+            <pb facs="tcp:51766:2"/>
+            <head>TO THE Incomparably Excellent M<hi rend="sup">rs.</hi> DELARIVIER MANLEY.</head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>FOnd of the Vanity of having your Ladyſhip's Friendſhip, I
+cannot reſt eaſie with the vaſt Bleſſing, unleſs the World know me
+favour'd by a Perſon ſo extraordinary: And whilſt the Town is big to
+ſee what a Genius ſo proportionate can produce, whilſt Sir <hi>Thomas
+Skipwith</hi> and Mr. <hi>Bet<g ref="char:EOLhyphen"/>terton</hi> are eagerly contending, who ſhall
+firſt bring you upon the Stage, <pb facs="tcp:51766:3"/>and which ſhall be moſt
+applauded, your Tragick or Comick Strain, I cou'd not refuſe the Vanity (my
+Soul whiſper'd to me) of ſtealing you from the expecting Rivals, and
+dexterouſly throw you firſt into the World, as one that honour'd me with
+your Friendſhip before you thought of theirs. Doubtleſs, you will ſpeak
+me a vain-glorious Raſcal, and un<g ref="char:EOLhyphen"/>worthy of that Eſteem I betray. Perhaps
+you may moſt juſtly object, Theſe Letters which I expoſe, were not
+proper for the Publick; the Droppings of your Pen, fatigu'd with Thought and
+Travel. But let them who are of that Opinion ima<g ref="char:EOLhyphen"/>gine what Eaſe and Leiſure
+cou'd produce, when they find themſelves (as they neceſſarily muſt)
+ſo well entertain'd by theſe.</p>
+            <p>
+               <pb facs="tcp:51766:3"/>That Honour, Eſteem and Friend<g ref="char:EOLhyphen"/>ſhip I had for Sir
+<hi>Roger Manley,</hi> (who has left a kind of Immortality behind him, in his
+Books, his Me<g ref="char:EOLhyphen"/>mory, and his extraordinary Daugh<g ref="char:EOLhyphen"/>ter:) That old and true
+Kindneſs, which grew up with you, and made me with Veneration and Wonder
+heedfully obſerve what others neg<g ref="char:EOLhyphen"/>lected as Childiſh, I confeſs, has
+moſt warmly oppos'd your Deſign of Writing Plays; and more, that of Making
+them Publick. I wou'd have had a happy Nature, ſuch as yours, taken up with
+more Sublime and Elevated Thoughts; and Time better ſpent, than in ſuch
+Trifles. But ſince I cou'd but combat (not overcome) your Deſires, my
+Friend<g ref="char:EOLhyphen"/>ſhip engages me to ſerve what I cannot approve; and I have thought 
+<pb facs="tcp:51766:4"/>this one Way, by giving the Town a true Taſte of your Thoughts
+and Senſe; I ſay, a true Taſte; for here you cannot but be ſuppos'd to
+ſpeak for your ſelf.</p>
+            <p>Shou'd I follow the Buſineſs of all Dedications, which is
+<hi>Encomium,</hi> mine muſt be as boundleſs as the Theme: I ſhou'd tell
+the World, how ſeparate you are from all the Weakneſs of your Sex; what a
+No<g ref="char:EOLhyphen"/>bleneſs and Generoſity of Temper is yours; how diſtant from the Shadow
+of Intereſt, or mean Deſign: How have I heard you (compaſſionate<g ref="char:EOLhyphen"/>ly)
+regretting the Miſeries of others, and never your own, but when they
+prevented your exalted Charity to them!</p>
+            <p>And now let us deſcant a little upon the Injuſtice of Fortune,
+that <pb facs="tcp:51766:4"/>has not (with Nature) made you her choiceſt Favourite. Why
+did ſhe not place you in a Station as exalted as your Merit? Why thrown your
+Chance in the Country, who might have adorn'd a Court, and taught a Nation?
+Herein all cannot but commend you, ſuiting your Inclinations to her Caprice;
+and by withdrawing from the Poſſi<g ref="char:EOLhyphen"/>bility of tempting others, put it be<g ref="char:EOLhyphen"/>yond
+your own of being tempted.</p>
+            <p>Now, Madam, 'tis time to ask your Pardon for venturing to make any
+thing of yours publick, without your Leave: 'Twas what I knew I ſhou'd never
+procure, and therefore have preſum'd upon that Sweetneſs of Temper, which
+never ſhews you vindictive againſt an Enemy; moſt obliging to your
+Friends, and hap<g ref="char:EOLhyphen"/>pily <pb facs="tcp:51766:5"/>calm to your ſelf. Years of Friendſhip,
+and Veneration, can plead mine no Deſign of expoſing you; nor can my Life
+be eaſie, when it has loſt the Reliſh of being eſteem'd</p>
+            <closer>
+               <signed>Your Formoſt Admirer, and Moſt Devoted, Humble
+And Obedient Servant. J. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="letter">
+            <pb n="1" facs="tcp:51766:5"/>
+            <head>LETTER I.</head>
+            <opener>
+               <dateline>
+                  <hi>Egham,</hi> 
+                  <date>
+                     <hi>June</hi> 24. 1694.</date>
+               </dateline>
+            </opener>
+            <p>I Am got (as they tell me) ſixteen Miles from you and
+<hi>London;</hi> but I can't help fancying 'tis ſo many Degrees. Tho'
+Midſummer to all beſides, in my Breaſt there's nothing but frozen
+Imagina<g ref="char:EOLhyphen"/>tions. The Reſolutions I have taken of quitting <hi>London</hi>
+(which is as much as to ſay, the World) for ever, ſtarts back, and asks my
+gayer Part if 't has well weigh'd the Senſe of <hi>Ever?</hi> Nor does your
+Letter, which I receiv'd this Morning, (taking <pb n="2" facs="tcp:51766:6"/>Coach) leſs
+influence me, than when I firſt form'd the Deſign. You ſhou'd have us'd
+but half theſe Arguments, and they had undoubtedly prevail'd: 'Tis of the
+lateſt now to ask me why I leave the crowded Market, and retire to ſtarve
+alone in Soli<g ref="char:EOLhyphen"/>tude? Whereas you quote the Poet, 
+<q> 
+                  <l>All your Beauty no more Light will have</l> 
+                  <l>Than a Sun-Dial in a Grave.</l>
+               </q> I am too much afraid Sloth
+and Sadneſs are going to be my E<g ref="char:EOLhyphen"/>ternal Companions; and you know my Soul's
+unfitted for ſuch Gueſts, till upon the Road to Execution: I fancy'd Dying
+to <pb n="3" facs="tcp:51766:6"/>the World; <hi>Horace, Cowley,</hi> all thoſe
+Illuſtrious Lovers of Soli<g ref="char:EOLhyphen"/>tude, debauch'd my Opinion, againſt my Reaſon:
+I took Coach with Mr. <hi>Granvill</hi>'s Words in my Mouth, 
+<q> 
+                  <l>Place me, ye Gods, in ſome obſcure Retreat:</l> 
+                  <l>Oh! keep me innocent: Make others Great:</l> 
+                  <l>In quiet Shades, content with Ru<g ref="char:EOLhyphen"/>ral Sports,</l> 
+                  <l>Give me a Life, remote from guil<g ref="char:EOLhyphen"/>ty Court:</l> 
+                  <l>Where free from Hopes and Feans, at humble Eaſe,</l> 
+                  <l>
+                     <g ref="char:V">Ʋ</g>nheard of, I may live and die in Peace.</l>
+               </q> Yet you
+ſee how great a Change two Hours has produced: All <pb n="4" facs="tcp:51766:7"/>my
+Conſtancy is not Proof a<g ref="char:EOLhyphen"/>gainſt the Thoughts, I am go<g ref="char:EOLhyphen"/>ing to have no Lover
+but my ſelf for ever. The green invi<g ref="char:EOLhyphen"/>ting Graſs (upon which I pro<g ref="char:EOLhyphen"/>miſed
+to paſs many pleaſing ſo<g ref="char:EOLhyphen"/>litary Hours) ſeems not at all entertaining:
+The Trees, with all their blooming, ſpreading Beauties, appear the worſt
+ſort of Canopy; becauſe, where I am going, they can offer their Shade to
+none but ſolitary me. But 'tis not reaſonable my Dul<g ref="char:EOLhyphen"/>neſs ſhou'd extend
+to you, who have every thing in your Na<g ref="char:EOLhyphen"/>ture juſt and pleaſing. You ask'd,
+and I eagerly engag'd (becauſe you deſir'd) to give an Account of my ſelf
+and Tra<g ref="char:EOLhyphen"/>vels, every Stage. I have not <pb n="5" facs="tcp:51766:7"/>forgot (when I told
+you) 'Twas too often, how you anſwer'd, Not for a Mind ſo fruitful as mine
+in Variety of Inconſtant Thoughts. You find at preſent, they run all upon
+melancholy Apprehenſions, which have ſo wholly poſſeſs'd me, I have
+not had time to obſerve my wretch<g ref="char:EOLhyphen"/>ed Fellow-Travellers, only a pert Sir in
+the Company, that will make himſelf be taken no<g ref="char:EOLhyphen"/>tice of by his Dulneſs.
+They moſt unmercifully ſet us to Dinner at Ten-a-Clock, upon a great Leg of
+Mutton. 'Tis the Cuſtom of theſe Dining Stages, to prepare one Day Beef,
+and another our preſent Fare; 'tis ready againſt the Coach comes: And tho'
+you ſhou'd have a <pb n="4" facs="tcp:51766:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="5" facs="tcp:51766:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="6" facs="tcp:51766:9"/>perfect Antipathy, there's no Re<g ref="char:EOLhyphen"/>medy but Faſting: The Coach<g ref="char:EOLhyphen"/>man begs
+your Pardon; hed not ſtay dreſſing a Dinner for the King, (God bleſs
+him) ſhou'd he travel in his Coach. I have left the Limb of the Sheep to the
+Mercy of my Companions, (whoſe Stomachs are thus early prepar'd for any
+Digeſtion) to tell you, with what unfeigned Reſpect I ſhall be ever</p>
+            <closer>
+               <signed>Your True Faithful Servant, <hi>Dela.
+MANLEY.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div n="2" type="letter">
+            <pb n="7" facs="tcp:51766:9"/>
+            <head>LETTER II.</head>
+            <p>I am got ſafe to <hi>Hartley-Row,</hi> and in a little bet<g ref="char:EOLhyphen"/>ter
+Humour than when I writ my laſt. Our Landlord is a perfect Beaux, and moſt
+exqui<g ref="char:EOLhyphen"/>ſitely performs the Honours of his Houſe. I am in pain for his
+Aſſiduity: I can't fetch a Step, no not to the Window, from the Table,
+<hi>&amp;c.</hi> but he is Squi<g ref="char:EOLhyphen"/>ring me; and ſo dreſs'd, and ſo
+conceited, that nothing but Serving a looſe Apprenticeſhip, cou'd have
+ſet him up a Maſter in the Trade of Foppery. He was a Goldſmith's
+Apprentice, where he ſtudied more his Plea<g ref="char:EOLhyphen"/>ſure, than Profit. This Houſe 
+<pb n="8" facs="tcp:51766:10"/>fell to him, and he wiſely re<g ref="char:EOLhyphen"/>ſolv'd to keep it
+himſelf, with the Help of his Siſter, who is a neat, houſwifely, obliging
+ſort of Woman. I ſuppoſe 'tis, by much, the beſt Entertainment this
+Road affords. They have a tollerable Cook; and I was glad to find ſomething I
+cou'd eat at Three-a-Clock, for we came in here at Two, and I can give you a
+little better Account of my Fellow-Travellers. The <hi>Sir</hi> I ſpoke of is
+a Baronet's Son, as he has carefully given me to un<g ref="char:EOLhyphen"/>derſtand: I take it for
+granted, he likes me; and wou'd have me do the ſame by him. As he came in he
+put off his Tra<g ref="char:EOLhyphen"/>velling Suit, for a Coat and Veſt, deſign'd to dazzle the
+Cu<g ref="char:EOLhyphen"/>rate <pb n="9" facs="tcp:51766:10"/>and all his Congregation. The Way I took to mortifie
+his Foppery, was, not to ſpeak a Word of the Change; which made him extream
+uneaſie: At length, out of all Patience, he deſired my Opinion, If his
+Tay<g ref="char:EOLhyphen"/>lor had uſed him well? What the Brocade was worth a Yard? How many Ounces
+of Silver-Fringe? And recommended to my Curioſity the exquiſite
+Work<g ref="char:EOLhyphen"/>manſhip of the Loops; and then gave me the Sum Total of his Coſt. I
+anſwer'd him, That Finery was loſt upon me; I nei<g ref="char:EOLhyphen"/>ther was, nor pretended
+to be a Judge. He pertly anſwer'd, He perceiv'd by my Sullenneſs, that I
+had a great deal of Wit; though I underſtood he had but <pb n="10" facs="tcp:51766:11"/>little by his Remark.—Well, all this did not do: He wou'd fain
+have had me enquir'd into his Family, Intrigues, and For<g ref="char:EOLhyphen"/>tune; which when he
+perceiv'd I had no Curioſity for, <hi>'Faith, Madam,</hi> ſaid he, <hi>I
+beg your Lady<g ref="char:EOLhyphen"/>ſhip's Opinion, if I am not the moſt unfortunate Man
+breathing: I'll tell you a moſt mortifying Adven<g ref="char:EOLhyphen"/>ture</hi>—<hi>Nay, you
+muſt hear me</hi>—<hi>I vow, this Indifferency does not look natural to
+you; your eyes pro<g ref="char:EOLhyphen"/>miſe us much more Fire.</hi> I'll ſhut 'em, thought I,
+for ever, rather than ſuch a Fop ſhall find any thing to like them
+for—<hi>What! no Anſwer, Madam,</hi> ſaid he; <hi>I per<g ref="char:EOLhyphen"/>ceive your
+Attention by your Silence. Gad, I love a Perſon of your Breed<g ref="char:EOLhyphen"/>ing, that know
+themſelves better <pb n="11" facs="tcp:51766:11"/>than to interrupt a good Story. Perhaps
+Madam is not well with her Journey,</hi> anſwer'd Mrs. Mayoreſs of
+Tatneſs—<hi>Alas! I wonder Ri<g ref="char:EOLhyphen"/>ding in the Coach ſhou'd not have got
+you a better Stomach</hi>—<hi>Poor Gentlewoman, ſhe has ſcarce eat
+any thing. I'll recompence that by a Feaſt of the Mind,</hi> anſwer'd my
+Fop. <hi>How ſay you, Madam? Shall I begin the</hi> Regalio?—<hi>I had
+as good conſent,</hi> quoth I: <hi>With or without my Leave, I ſee you are
+reſolv'd upon't. Well then, Madam,</hi> ſaid he, <hi>ſince you are
+diſ<g ref="char:EOLhyphen"/>poſed to be delighted, I'll about it inſtantly.</hi>
+            </p>
+            <p> 
+               <q rend="inline">'It happen'd at <hi>Oxford</hi> three Months ago,
+(where I often came, my Father's Eſtate be<g ref="char:EOLhyphen"/>ing <pb n="12" facs="tcp:51766:12"/>not far
+diſtant) I ſaw a Lady, and fell in Love with her;
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Gad, Madam, down<g ref="char:EOLhyphen"/>right in Love
+with her. She was a Perſon Gentilely bred, had ſeen the <hi>Beaux
+Monde,</hi> made the <hi>Tour</hi> of all the Places of Gallantry, ſhin'd in
+the Drawing-Room, languiſh'd in the Boxes, adorn'd the Park; in a Word, was
+all a Man of my Circumſtances cou'd deſire in one he was reſolv'd to make
+an Oblation of his Heart to. But as her Honour was my Care, and not Marrying my
+De<g ref="char:EOLhyphen"/>ſign, I ſearch'd for a dexterous Pretence to viſit, and be happy. I
+took Mr. <hi>Sly</hi> with me, a Gen<g ref="char:EOLhyphen"/>tleman of the Town, who had a Wife: To
+give you the Cha<g ref="char:EOLhyphen"/>racter <pb n="13" facs="tcp:51766:12"/>of my Friend, He was naturally
+amorous, had a hand<g ref="char:EOLhyphen"/>ſom Perſon, and Strains of na<g ref="char:EOLhyphen"/>tural Wit beyond whatever
+I ſaw in the moſt Acquir'd; and your Ladyſhip muſt allow me to be a
+Judge of Wit, by ſo dexterouſly finding out yours, Maugre your
+Silence.'</q> I bow'd for this extraordinary Compli<g ref="char:EOLhyphen"/>ment; and thought I cou'd
+not more agreeably return it, than by continuing my Silence; and, as the Poet
+has it, <hi>left him to his dear Miſtake.</hi> 
+               <q rend="inline">'Mr. <hi>Sly,</hi> continued he, was to propoſe
+a Marriage be<g ref="char:EOLhyphen"/>tween me and my Lady <hi>Conqueſt,</hi> to the old People, her
+Rela<g ref="char:EOLhyphen"/>tions, whom ſhe was juſt come to live with: But as ſoon as he ſaw
+her, if I was her firſt <hi>Ox<g ref="char:EOLhyphen"/>ford</hi>-Victim, <pb n="14" facs="tcp:51766:13"/>he was
+certainly the ſecond; and, as I found, preſently took with her. She had a
+very fine Hand, which Mr. <hi>Sly,</hi> according to the Country-Liberty,
+kiſs'd; and then, with <hi>Cleveland,</hi> ſaid, 
+<q> 
+                     <l>So ſoft, tis Air; but once remov'd,</l> 
+                     <l>Tender, as 'twere a Jelly Glov'd.</l>
+                  </q> She gave him a
+Look, which ſeem'd to ſay, ſhe wonder'd in that Place at ſuch a Piece
+of Gallantry; and then purſuing with her Wit the Victory of her Eyes, charm'd
+my Friend to that Degree, that he told me, he muſt enjoy her, or die.
+<hi>Gad, Madam, was not this a very odd Turn? I carried him to ſpeak 
+<pb n="15" facs="tcp:51766:13"/>for me; and he comes to make me the Confident of his
+Deſigns?</hi> We agreed, tho' as Friends ſhou'd, to keep our mutual
+Confidence ſecret from her, and to endeavour each of us to make himſelf
+happy, and faith<g ref="char:EOLhyphen"/>fully to relate the Progreſs of our Amours. But becauſe
+the Country is much given to Tat<g ref="char:EOLhyphen"/>ling, the Pretenſions of Mar<g ref="char:EOLhyphen"/>riage went on.
+Lady <hi>Conqueſt</hi> was Airy and <hi>Coquet;</hi> lov'd Company and
+Gallantry, if they cou'd be purchas'd with Safety: But ſhe knew ſo well how
+to manage every body, that none durſt ſpeak to her, more than ſhe had a
+mind to hear. I was one of the aw'd Fools. <hi>Gad! Wou'd you be<g ref="char:EOLhyphen"/>lieve, 
+<pb n="16" facs="tcp:51766:14"/>Madam, that Love cou'd make ſo great an Aſs of a Man of
+my <g ref="char:V">Ʋ</g>nderſtanding?</hi> And yet 'twas not altogether that nei<g ref="char:EOLhyphen"/>ther, my Pride
+was concern'd; I was reſolv'd not to ſerve for her Diverſion, till I was
+ſure ſhe was conſenting to be mine; but cou'd no more keep out of her
+Company, than I cou'd hang my ſelf. I deſired her to walk: She conſented,
+with a Crony ſhe pick'd up, upon Con<g ref="char:EOLhyphen"/>dition I wou'd engage Mr. <hi>Sly</hi>
+of the Party. I was jealous, but to no purpoſe; either my Rival's Company, or
+not my Miſtreſs's. <hi>Sly</hi> pretended Fear of his Wife, that he durſt
+not appear in publick with any other Woman; for ſhe already began 
+<pb n="17" facs="tcp:51766:14"/>to have Apprehenſions of my Lady <hi>Conqueſt,</hi>
+whoſe Way of Living was remote to thoſe of Country-Gentlewomen's; and
+therefore he was reſolv'd to think no more of her, tho' in<g ref="char:EOLhyphen"/>finitely
+pleaſing to him; for his Fortune depended, in a great meaſure, upon his
+Wife's Mo<g ref="char:EOLhyphen"/>ther. I came back with this doleful News to Lady <hi>Conqueſt. Go
+tell him,</hi> anſwer'd ſhe, <hi>He who has pretended to love me, ſhou'd
+fear nothing more than not being belov'd; and that I com<g ref="char:EOLhyphen"/>mand him to meet us at
+the ap<g ref="char:EOLhyphen"/>pointed place.</hi> I ran, like a Fool, to do her Meſſage, which I
+believ'd Raillery, becauſe ſhe ought to have been more cau<g ref="char:EOLhyphen"/>tious of a
+Married Man's Love, <pb n="18" facs="tcp:51766:15"/>if ſerious. <hi>Sly</hi> wanted but
+In<g ref="char:EOLhyphen"/>treaty: He conſented, and we met, but not to my Comfort; tho' the Expence
+was mine, he had the Profit: She was not ea<g ref="char:EOLhyphen"/>ſie unleſs he ſat nigh her;
+ſhe talk'd to him, ſtar'd at him, did every thing to ſhew ſhe was
+pleas'd; whilſt I, by a Notion of Pride, wou'd pretend no<g ref="char:EOLhyphen"/>thing, for fear I
+ſhou'd not have all: <hi>For, Gad, Madam, I don't love being baulk'd
+thus.</hi> Several times we met, but all as little to the purpoſe.
+Undoubtedly, ſhe ſaw I lov'd her, but wou'd not ſee, becauſe I was of
+Uſe in her Affair with <hi>Sly.</hi> The whole Town talk'd of our
+approach<g ref="char:EOLhyphen"/>ing Wedding, and I began to be Fool enough to reſolve on't 
+<pb n="19" facs="tcp:51766:15"/>through <hi>Sly</hi>'s Perſuaſion, who continually
+extoll'd her Ho<g ref="char:EOLhyphen"/>nour and Vertue, and tickl'd my Pride with the News of her
+Love; but that ſhe wanted a Declaration from me, before I cou'd expect a
+Confeſſion from her. I told him, I wou'd think on't; and ſo we
+parted.—That Night (as Chance wou'd have it) I paſs'd along by the
+Houſe where ſhe liv'd, and I found the Gate open: I know not what Devil of
+Curioſity carry'd me in; and when in, to go to her Chamber: I did both
+unſeen, and conceal'd my ſelf behind the Bed, which I ſaw fit<g ref="char:EOLhyphen"/>ted for
+Night. I reſolv'd to wait till ſhe ſhou'd be in Bed, and then to take
+Advantage of <pb n="20" facs="tcp:51766:16"/>her Woman's Abſence, (who lay in the
+Antichamber) and there to declare my Love, and offer her Marriage. Long I had
+not waited, <hi>(Though, Gad, Madam, I was very impatient, and thought every
+Minute Seven,)</hi> when the charming Fair came from her Dreſſing-Room,
+with nothing on but her Night-Gown and Slippers, which were ſoon thrown off,
+and the God<g ref="char:EOLhyphen"/>deſs appear'd more beauteous than the naked Queen of Love. The
+happy Bed ſoon receiv'd her; and ſhe cry'd, <hi>Haſte, and bring my Lover
+to me.</hi> At theſe Words her Woman went into the Antichamber, and return'd
+ſoftly with <hi>Sly;</hi> who flew to her Arms, ſigh'd, kiſs'd, and 
+<pb n="21" facs="tcp:51766:16"/>dy'd there.—<hi>Imagine my Sur<g ref="char:EOLhyphen"/>prize!</hi> 'Twas ſo
+great, I cou'd not in a long time ſhew my ſelf, to interrupt 'em: At
+length, ſeeing him undreſs for Bed, Gad, Madam, my Patience was quite
+expir'd; <hi>Traytor,</hi> ſaid I in ſhewing my ſelf, <hi>Is it thus thou
+preſerveſt thy feign'd Duty to thy Wife?</hi> I laid my Hand upon my Sword,
+and he did the like on his; and we had certainly drawn, had not the Amorous
+Fair thrown her ſelf out of Bed between us, and conjur'd us on her Knees to
+make no noiſe; elſe ſhe was loſt for ever. I rais'd her naked Beauties,
+and carry'd them whence they came, but complain'd at my hard For<g ref="char:EOLhyphen"/>tune, which
+had made me the <pb n="22" facs="tcp:51766:17"/>Inſtrument of my own Ruin. She ſaw I
+was extreamly touch'd at it; and after her Shame and Surprize was a little
+over, <hi>You have no Reaſon, Sir,</hi> ſaid ſhe, <hi>to complain of me:
+I cou'd have no Engagements with a Man who ne<g ref="char:EOLhyphen"/>ver pretended to love me. Tho'
+you have given me the Glory of refuſing you as a Husband (in the Eyes of the
+Town) it cou'd not but nettle me, to know there was nothing ſerious on your
+ſide, but done like a Gentleman, to ſe<g ref="char:EOLhyphen"/>cure my Reputation amongſt
+Ill<g ref="char:EOLhyphen"/>bred Fools, who know not the Charms of Converſation, and won't permit it
+(without Cenſure) to thoſe that do. But, Gad, Ma<g ref="char:EOLhyphen"/>dam,</hi> anſwer'd I,
+<hi>your Ladiſhip is not ſo dull, but to know I lov'd <pb n="23" facs="tcp:51766:17"/>you: All my Aſſiduities, <g ref="char:V">Ʋ</g>neaſi<g ref="char:EOLhyphen"/>neſs, Sighs and Oaglings
+muſt have inform'd you. Our Sex dares hardly believe yours,</hi> ſhe
+reply'd, <hi>when you take pains to ſpeak: And ſure 'twere an unpardonable
+Vanity to draw ſuch Conſequences without it. Thoſe Circumſtances you
+pretend, I have found common to all Gentlemen: Therefore muſt I conclude the
+whole World is in Love with me; and deny my ſelf to thoſe who tell me they
+are my Servants, for the vain Imagina<g ref="char:EOLhyphen"/>tion that another is ſilently ſo?
+Gad, Madam,</hi> anſwer'd I, <hi>I can't poſſibly forgive the Preference
+of a dull, ſilly, ſober Married Man, to an Airy, Well-dreſs'd, Young,
+Amo<g ref="char:EOLhyphen"/>rous one. I'll be gone to</hi> London <hi>by Break of day, for fear I
+ſhou'd <pb n="24" facs="tcp:51766:18"/>not conceal my Reſentments, and ſo injure your
+Ladyſhip irrepara<g ref="char:EOLhyphen"/>bly: For, Gad, Madam, I muſt repeat again, you were to
+blame to ſlight all the Pains I took to breed you for nobler Game.</hi>'</q>
+This laſt, I confeſs, broke my Splene<g ref="char:EOLhyphen"/>tick Silence, and I cou'd not hold
+laughing heartily; which amply paid my Squire for the Pains he had taken in his
+Relation. He concluded it with telling me his Journey to <hi>London,</hi> and
+ſhort Stay there, only to accouter, his De<g ref="char:EOLhyphen"/>ſign of viſiting a
+Lady-Siſter, marry'd into <hi>Devonſhire:</hi> And clos'd with Lauds to his
+good Fortune, that had thrown him into a Coach with a Lady of my Charms and
+Senſe to whom he had ſacrific'd the Relicks of La<g ref="char:EOLhyphen"/>dy <pb n="25" facs="tcp:51766:18"/>
+               <hi>Conqueſt</hi> the firſt Minute that he ſaw me. I anſwer'd
+him, That I found Experience had made him reſolve againſt loſing a
+ſecond Miſtreſs for want of ſpeaking.—He had Manners ſufficient
+(or ra<g ref="char:EOLhyphen"/>ther Conſcience) to think he had given me enough of his:
+<hi>Beaux</hi>-ſelf for one Day, and withdrew.</p>
+            <p>I cou'd not forbear, late as it was, ſending you an Account: If
+you laugh in your Turn, I am paid for my Pains, as well as the Squire. 'Tis now
+paſt Eleven, and they'll call us by Two: Good Night; I am going to try if I
+can drown in Sleep that which moſt ſenſibly affects me, the cruel
+Se<g ref="char:EOLhyphen"/>paration we have ſo lately ſuffer'd.</p>
+            <closer>
+               <dateline>
+                  <hi>Hartley-Row,</hi> 
+                  <date>
+                     <hi>Jun.</hi> 22. 1694.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="3" type="letter">
+            <pb n="26" facs="tcp:51766:19"/>
+            <head>LETTER III.</head>
+            <p>DOn't you think I am more conſtant than your Friend<g ref="char:EOLhyphen"/>ſhip cou'd
+hope, or mine pretend to? I think it a great Proof of it, amidſt the Fatigues
+of a Weſt-Country Journey, to give you thus duly an Account of my
+inſignificant ſelf, and Travels. We parted from <hi>Hartley-Row</hi> at
+Three this Morning, through a Croud of Beggars, who watch your Coach for Alms;
+and will never leave it unbleſs'd. Hence my <hi>Beaux</hi> took Occaſion of
+<hi>Si<g ref="char:EOLhyphen"/>mile;</hi> Bid me to obſerve how wakeful thoſe Wretches were for
+ſmall Charities; That he wou'd do the like, in hopes of greater; 
+<pb n="27" facs="tcp:51766:19"/>And that my Divine Idea had ſo fill'd his Sight, he cou'd
+not re<g ref="char:EOLhyphen"/>ſolve to let Sleep intrude, for fear of ſhutting me out. I
+per<g ref="char:EOLhyphen"/>ceiv'd he took pains to be thought uneaſie, and I have more good Manners
+than to diſappoint him. Mrs. <hi>Moyoreſs,</hi> now ſhe is ac<g ref="char:EOLhyphen"/>quainted,
+has all the low, diſ<g ref="char:EOLhyphen"/>agreeble Familiarity of Peo<g ref="char:EOLhyphen"/>ple of her Rank. She
+enter<g ref="char:EOLhyphen"/>tain'd us all the Morning with a ſorry Love-buſineſs about her
+Second Husband; Stuff ſo im<g ref="char:EOLhyphen"/>pertinent, I remember nothing of it.
+<hi>Beaux</hi> continues his Aſſi<g ref="char:EOLhyphen"/>duities: I think none was ever ſo
+plagu'd with dying Eyes; his are continually in that poſture, and my
+Oppoſites, that I am forc'd to take a good deal of pains to 
+<pb n="28" facs="tcp:51766:20"/>avoid 'em. The two other Fel<g ref="char:EOLhyphen"/>low-Travellers were never ſo
+pro<g ref="char:EOLhyphen"/>moted before, and are much troubl'd their Journey is to laſt no longer,
+and wiſh the four Days four Months. I hope eve<g ref="char:EOLhyphen"/>ry Jolt will ſquaſh their
+Guts, and give 'em enough on't: But they are Proof againſt any ſuch
+Diſ<g ref="char:EOLhyphen"/>aſters, and hugely delighted with what they are pleas'd to call Ri<g ref="char:EOLhyphen"/>ding
+in State. After this ridi<g ref="char:EOLhyphen"/>culous Account, you need not doubt but I am throughly
+mor<g ref="char:EOLhyphen"/>tify'd.—The Trouts are juſt brought upon the Table, which are the
+only good thing here; they look inviting, and won't ſtay for Cooling
+Complements. I hope Time will ſhew it none, to ſay,</p>
+            <closer>
+               <signed>I am unalterably yours.</signed>
+               <dateline>
+                  <hi>SUTTON,</hi> 
+                  <date>
+                     <hi>Jun.</hi> 23. 1694.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="4" type="letter">
+            <pb n="29" facs="tcp:51766:20"/>
+            <head>LETTER IV.</head>
+            <p>I Can't give my ſelf any Rea<g ref="char:EOLhyphen"/>ſon why theſe Coach-men are
+ſuch unreaſonable Rogues: They make us riſe at Two in the Morning, to
+bring us into our Inn at the ſame Hour in the Af<g ref="char:EOLhyphen"/>ternoon. After we were
+repos'd a little, <hi>Beaux</hi> ſhin'd again, as yeſterday, and waited
+upon me to Evening-Prayers. I need ſay nothing to you of
+<hi>Salisbury</hi>-Ca<g ref="char:EOLhyphen"/>thedral: If in a Foreign Coun<g ref="char:EOLhyphen"/>try, as the Lady in her
+Letters of <hi>Spain,</hi> I cou'd entertain you with a noble Deſcription;
+but you have either ſeen, or may ſee it; and ſo I'll ſpare my
+Ar<g ref="char:EOLhyphen"/>chitecture. There are abundance <pb n="30" facs="tcp:51766:21"/>of pretty,
+innocent-look'd Wo<g ref="char:EOLhyphen"/>men, genteel enough; but I have loſt my Heart to a
+handſom Church-man. I never thought before that Dreſs was tolerable; but
+ſo wore, it ſeems a mighty Ornament. He was plac'd be<g ref="char:EOLhyphen"/>hind me; but I turn'd
+my De<g ref="char:EOLhyphen"/>votion, and kneel'd to him, ima<g ref="char:EOLhyphen"/>gining him no leſs than (as in Antique
+Days) ſome High Prieſt of the Sun. The Canon gave me Cauſe to think he
+had din'd too well, and was oblig'd to his Snuff, more than Religion, for
+keeping him awake.—Well, Devotion done, I was forc'd to break up mine,
+and leave him without a Knowledge of his Conqueſt. As we were walking to our
+Inn, I ask'd <hi>Beaux</hi> what <pb n="31" facs="tcp:51766:21"/>we ſhou'd do to paſs
+the next day without being very weary of each other, for <hi>Sunday</hi> does
+not permit Travelling. He, you may be ſure, did not fail to tell me, He cou'd
+never be weary of me, tho' (himſelf) expiring by my Sight and Cruelty. I
+wav'd his Complement, and told him my Deſign of engaging the Peo<g ref="char:EOLhyphen"/>ple in the
+<hi>Exeter</hi> Coach (if they ſeem'd worth it) to live with us for the time.
+When we re<g ref="char:EOLhyphen"/>turn'd, we were told it was not yet come in, occaſion'd by the
+breaking of the Axle-tree five Miles off; but that a Fellow was gone to mend
+it, and they were expected every Moment. My Chamber-Window anſwer'd the
+Court; I roſe to it at the Noiſe <pb n="32" facs="tcp:51766:22"/>of the Coach, and
+preſently ſaw alight a tall, bluſtring, big-bon'd, raw Thing, like an
+over-grown School-Boy, but conceited a<g ref="char:EOLhyphen"/>bove any thing. He had an Ap<g ref="char:EOLhyphen"/>purtenance,
+call'd a Wife, whom he ſuffer'd to get out as well as ſhe cou'd; as long as
+he had layn with her, he did not think her worth the Civility of his Hand. She
+ſeem'd a Giant of a Woman, but very fine, with a right Citt Air. He
+bluſter'd pre<g ref="char:EOLhyphen"/>ſently for the beſt Lodging, which he ſaw taken up by her
+that held the fine Fan before her Face: You may gueſs this was your humble
+Servant. The Chamberlain told him, 'Twas their Cuſtom, Firſt come, firſt
+ſerv'd; but that there were very <pb n="33" facs="tcp:51766:22"/>good Chambers beſides.
+The reſt of the Company were two Things that look'd pert and aw<g ref="char:EOLhyphen"/>kard;
+Tradeſ-men's Daughters I judg'd 'em. But methoughts, caſting my Eyes upon a
+Gentle<g ref="char:EOLhyphen"/>woman and her Servant, that came out laſt, I found ſome<g ref="char:EOLhyphen"/>thing
+pleas'd me; whether it were becauſe ſhe really deſerv'd it, or that the
+Stuff ſhe was with ſet her off. I had a Baſin of fine Heart-Cherries
+before me, juſt come from the Garden: I caus'd 'em to be brought after me,
+in<g ref="char:EOLhyphen"/>to the Gallery, and deſign'd 'em as a Bait to the Woman whom I was to
+begin the Acquaintance with; for <hi>Beaux</hi> deſign'd to ſet up to get a
+Fortune in <hi>Devon<g ref="char:EOLhyphen"/>ſhire,</hi> and was unwilling to ſhew 
+<pb n="34" facs="tcp:51766:23"/>any Irregularity;—and I thought my ſelf above their
+Re<g ref="char:EOLhyphen"/>flections. The firſt that appear'd was the Wife, with a Riſing Bel<g ref="char:EOLhyphen"/>ly:
+This ſeem'd a good Hint; I offer'd 'em to her, not know<g ref="char:EOLhyphen"/>ing but ſhe might
+long. The Sight, I ſuppoſe, did not diſpleaſe her, for ſhe readily
+accepted, and eat very greedily. The Gentile look'd Lady had much to do to be
+perſuaded. As for the other two, they were gone to chuſe a Lodging. We
+preſently grew acquainted, taking Travellers Li<g ref="char:EOLhyphen"/>berty and Sup'd together.
+But, ſhall I tell you? The Wife grew jealous of me. It ſeems, her Temper
+was ſuch. And her Huſ<g ref="char:EOLhyphen"/>band (no ſmall Man in his Coun<g ref="char:EOLhyphen"/>try, tho' himſelf
+juſt ſet up in <pb n="35" facs="tcp:51766:23"/>Merchandizing at <hi>London;</hi> his
+Father one of the Canons at <hi>Exe<g ref="char:EOLhyphen"/>ter;</hi>) thought he might carry all
+Hearts before him, as well as the Country-Laſſes. They were come from
+viſiting their Friends, and returning to their Houſe in <hi>London.</hi>
+Mrs. <hi>Stanhope,</hi> for that was the Lady's Name that I lik'd, told me, I
+was not to count up<g ref="char:EOLhyphen"/>on the Conqueſt, for he had given her <hi>Douceurs</hi>
+all the Way, and made her extream uneaſie, becauſe his Wife appear'd to be
+ſuch. We grew into an Intima<g ref="char:EOLhyphen"/>cy, and left the Company. My <hi>Beaux</hi> was
+to me faithleſs and inconſtant. One of the awkard little Things I told you
+of, and who had a tollerable Face, was a Goldſmith's Daughter of
+<hi>Exe<g ref="char:EOLhyphen"/>ter,</hi> 
+               <pb n="36" facs="tcp:51766:24"/>and acquainted with his La<g ref="char:EOLhyphen"/>dy-Siſter;
+that began their Ac<g ref="char:EOLhyphen"/>quaintance. She ſeem'd free and fond: He took the Hint,
+and apply'd himſelf to her; which I was very glad of. Mrs. <hi>Stanhope</hi>
+went with me to my Chamber; and after much Diſcourſe, offer'd Friendſhip,
+and mutual Know<g ref="char:EOLhyphen"/>ledge of each other; ſhe gave me this Account of her laſt
+Ad<g ref="char:EOLhyphen"/>ventures.</p>
+            <p> 
+               <q rend="inline">'I came now from <hi>Falmouth, (ſaid ſhe)</hi>
+where I have been ſince the Beginning of the Spring, to viſit a Brother and
+his Wife that lives there. 'Till within theſe Six Weeks I ſaw nothing that
+pleas'd me: At loſt, 'twas a Captain of a Man <pb n="37" facs="tcp:51766:24"/>of War had
+the Chance; my Brother brought him to his Houſe: And for my Excuſe, I
+muſt tell you, he is a very pret<g ref="char:EOLhyphen"/>ty, genteel young Gentleman, of a good
+Family and Educa<g ref="char:EOLhyphen"/>tion, and in proſpect of com<g ref="char:EOLhyphen"/>ing to very good Fortune. They
+talk'd of the Town and Country-Beauties: At laſt, a young Creature was nam'd,
+whom I had not ſeen; but the Captain ſet her before every thing he had. I
+was concern'd at his Opinion, and ask'd him his of the Dutcheſs of
+<hi>Grafton?</hi> He gave her her due Praiſe; but yet, in his Eſteem, this
+ex<g ref="char:EOLhyphen"/>ceeded. I cou'd not but think him extreamly in the wrong; and was angry when
+I heard <pb n="38" facs="tcp:51766:25"/>him wiſh himſelf a Man of mighty Fortune, to
+deſerve her. He ſail'd that Night; and af<g ref="char:EOLhyphen"/>ter Ten Days Cruiſe, came in
+again. His firſt Viſit was to me. I ask'd him if he had ſeen his
+Miſtreſs. He ſaid, he had none. I remember'd him of what he had ſpoke.
+He an<g ref="char:EOLhyphen"/>ſwer'd, That I had taught him better. He continu'd his Ap<g ref="char:EOLhyphen"/>plications,
+viſited me Three Times a Day: And becauſe I was ſtill jealous of his
+Words, I had him watch'd, and an Ac<g ref="char:EOLhyphen"/>count brought of all his Viſits. The
+young Lady's Uncle made a Ball; but becauſe my Brother and him were not well
+toge<g ref="char:EOLhyphen"/>ther, there was no Hopes of my being invited; which my <pb n="39" facs="tcp:51766:25"/>Lover very well knew, and therefore ſaid, he wou'd not be there,
+having receiv'd Orders to Sail. He took his Leave with tranſporting Sorrow;
+and had the Glory to find mine was real. However, I wou'd not loſe the Ball,
+becauſe I de<g ref="char:EOLhyphen"/>ſir'd to ſee my reputed Rival. I forgot to tell you, he had
+never ſeen her but once, when he prais'd her to that Degree; and
+dexterouſly told me a ſe<g ref="char:EOLhyphen"/>cond Sight had undeceiv'd him. I dreſs'd my
+ſelf like a Farmer's Wife, with a Basket on my Arm; and, by the help of one
+of the Servants, was plac'd like a Country-Gazer, at a Corner of the Room. I
+needed not to be told my Rival; a Thouſand daz<g ref="char:EOLhyphen"/>ling <pb n="40" facs="tcp:51766:26"/>Charms diſtinguiſh'd her; and, though I look'd with jea<g ref="char:EOLhyphen"/>lous Eyes,
+muſt acknowledge, I never ſaw any Beauty more perfect. All my Hopes lay in
+a certain Softneſs, which did not promiſe much Wit. In a little time, my
+Traytor (whom I imagin'd in the wide Ocean) came to the Ball, danc'd with his
+Miſtreſs, and was as Aſſi<g ref="char:EOLhyphen"/>duous as ſhe deſerv'd. I was ſo well
+pleas'd at the Diſcovery, I ſtay'd not for any more, for fear I ſhou'd
+not 'ſcape my ſelf. About Midnight he came (for a Minute) to ſee me; and
+told me, he was juſt come Aſhore, the Ship under Sail; yet with<g ref="char:EOLhyphen"/>out another
+Sight, 'twas impoſ<g ref="char:EOLhyphen"/>ſible for him to depart. I con<g ref="char:EOLhyphen"/>founded 
+<pb n="41" facs="tcp:51766:26"/>him with telling him what had ſo lately paſs'd at the
+Ball: Yet he drew himſelf out of the Embarraſs, and ſaid every thing, to
+make me think he lov'd me; and we were ſeriouſ<g ref="char:EOLhyphen"/>ly treating upon the Affairs
+of Matrimony. I told him, he muſt get my Father's Conſent, who liv'd at
+<hi>London,</hi> where I was going. He beg'd me to defer my Journey till he
+came in; which I too readily pro<g ref="char:EOLhyphen"/>mis'd; and ſo we parted. I knew my Fortune
+fairer than my Rival's, and began to be perſuaded I had the better of her.
+For, What elſe cou'd draw him to addreſs me? When I ſaw him return, 'twas
+with mutual Joy: But he was <pb n="42" facs="tcp:51766:27"/>order'd that ſame Night to
+ſail to <hi>Plimouth,</hi> and did not ex<g ref="char:EOLhyphen"/>pect to be back in a Week;
+therefore we agreed upon my Journey. He ſwore an invio<g ref="char:EOLhyphen"/>lable Love; and wou'd
+have contracted himſelf, if I durſt without my Father's Conſent: He
+intended to write to his Friends above, to ask it. And thus we once more
+parted, but not till he had ſeverely ex<g ref="char:EOLhyphen"/>claim'd againſt any Deſigns up<g ref="char:EOLhyphen"/>on
+my Rival, before a whole Crew of Town-Goſſips, that I was ſure wou'd tell
+her. You may conclude, we agreed upon Writing. I took my Journey, and ſtay'd
+at an Aunt's Houſe in <hi>Exeter</hi> Ten Days; where I heard, that within
+Four of my <pb n="43" facs="tcp:51766:27"/>Departure, my Lover return'd; and in Three more
+was pub<g ref="char:EOLhyphen"/>lickly married to my Rival. I writ to thank him for ridding me of a
+Knaviſh Husband, wiſh'd him Joy, took Coach, and reſolv'd againſt too
+eaſily believing any Man again.'</q>
+            </p>
+            <p>The Poſt has juſt brought me a Letter from you: I find you
+curſe me with the Continuation of <hi>Egham</hi>-Uneaſineſs, till I
+re<g ref="char:EOLhyphen"/>turn to (the World in) <hi>London.</hi> Methinks 'tis unreaſonable to
+impoſe the continu'd Slavery of Writing: I aſſure you, I ſhall take
+Truce with it till at my Journey's End, unleſs ſomething happen worth our
+Notice. Ge<g ref="char:EOLhyphen"/>neral <hi>Talmaſh</hi>'s Body was brought <pb n="44" facs="tcp:51766:28"/>in
+here this Evening: His Secre<g ref="char:EOLhyphen"/>tary I am acquainted with, and have ſent to
+deſire the Favour of his Company to Morrow to Din<g ref="char:EOLhyphen"/>ner; and if any thing in
+his Re<g ref="char:EOLhyphen"/>lation be Entertaining, you ſhall not fail of it from</p>
+            <closer>
+               <signed>Your Sincere Faithful Servant.</signed>
+               <dateline>
+                  <date>
+                     <hi>Saturday</hi> Night,</date> from
+<hi>Salisbury.</hi>
+               </dateline>
+            </closer>
+         </div>
+         <div n="5" type="letter">
+            <head>LETTER V.</head>
+            <p>THE Account of ſo great a Man's Death as Mr. <hi>Tal<g ref="char:EOLhyphen"/>maſh</hi>
+(in the middle of all his Enterprizes, when Fortune ſeem'd to promiſe him
+much greener Lawrels than he had yet ga<g ref="char:EOLhyphen"/>ther'd) has ſo added to my
+Me<g ref="char:EOLhyphen"/>lancholy, <pb n="45" facs="tcp:51766:28"/>that I will not deſcribe his Misfortune to
+you, for fear it be contagious; but rather ſuf<g ref="char:EOLhyphen"/>fer you to expect the publick
+Ac<g ref="char:EOLhyphen"/>count; for I am one of thoſe that eſteem you more, than to make you
+uneaſie; as I think none can be otherwiſe, that hears the Particulars of
+his Loſs. Something there was, extream touching.—</p>
+            <p>After this doleful Subject, me<g ref="char:EOLhyphen"/>thinks my <hi>Beaux</hi> may
+juſtly com<g ref="char:EOLhyphen"/>plain I have ſo long a time neg<g ref="char:EOLhyphen"/>lected his moſt ſingular
+ſelf. We parted this Morning from our <hi>Sunday</hi>-Acquaintance. Fop told
+me (when I gently reproach'd him for Inconſtancy,) <hi>Gad, Madam, 'tis but
+to make my ſelf the newer to your Ladyſhip to Morrow.</hi> I rather 
+<pb n="46" facs="tcp:51766:29"/>thought 'twas to keep me ſuch to him. He has given me a
+Re<g ref="char:EOLhyphen"/>lation of his Succeſs with the Damſel. She treated him (in her Chamber)
+with <hi>Roſa Solis,</hi> and what he calls <hi>Sucket.</hi> The reſt he
+wou'd willingly have ac<g ref="char:EOLhyphen"/>quainted me with, but I recom<g ref="char:EOLhyphen"/>mended Diſcretion in
+Ladies Af<g ref="char:EOLhyphen"/>fairs; and he, almoſt burſting, is yet forc'd to be ſilent. How
+long he will keep ſuch, I do not know, for he has often offer'd at breaking
+his moſt painful Pe<g ref="char:EOLhyphen"/>nance. We have paſs'd <hi>Dorche<g ref="char:EOLhyphen"/>ſter</hi> and
+<hi>Blandford</hi> to Day, but nothing I found in either worth your notice. The
+Toils of the Body influence the Mind: I ſup<g ref="char:EOLhyphen"/>poſe, by my Dulneſs, you find
+I ſpeak woful Truths. We are <pb n="47" facs="tcp:51766:29"/>lodg'd at
+<hi>Bridgport,</hi> and very ill; but 'tis but for a Night. Here's juſt come
+into the Inn an Ac<g ref="char:EOLhyphen"/>quaintance of <hi>Beaux</hi>'s, who pro<g ref="char:EOLhyphen"/>miſes yielding
+Matter for to Mor<g ref="char:EOLhyphen"/>row's Letter. This was infected in the Beginning by General
+<hi>Tal<g ref="char:EOLhyphen"/>maſh;</hi> and the moſt uneaſie Jour<g ref="char:EOLhyphen"/>ney as dully concludes
+it.</p>
+            <closer>
+               <signed>Your ever Conſtant and Obliged Servant.</signed>
+               <dateline>Bridgport, 
+<date>
+                     <hi>Jun.</hi> 25. 1694.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="6" type="letter">
+            <head>LETTER VI.</head>
+            <p>
+               <hi>BEaux</hi> is now grown ſo inſi<g ref="char:EOLhyphen"/>pid, that I ſhall ſay
+very little of him for the future; and I have Reaſon to believe my ſelf
+ſuch to him; for theſe two laſt Even<g ref="char:EOLhyphen"/>ings, <pb n="48" facs="tcp:51766:30"/>contrary
+to Cuſtom, he has not Re-dreſs'd: The Fatigue, which he ſeems more
+ſenſible of than any of us, has tarniſh'd the Luſtre of his Eyes; and,
+inſtead of any further Oagling, drowns all his Amorous Pretenſions in as
+profound Sleep as the uneaſie Jolting of the Coach will per<g ref="char:EOLhyphen"/>mit. This is what
+I can never be ſo happy to gain. But to tell you ſomething of our laſt
+Night's Entertainment: Whilſt Supper was getting ready, the Gentle<g ref="char:EOLhyphen"/>man I told
+you of, at <hi>Beaux</hi>'s Intreaty, gave us an Account of what Affairs were
+carrying him to <hi>London:</hi> The ſhort of it is this.</p>
+            <p> 
+               <q rend="inline">'Your Ladyſhip, <hi>ſaid he,</hi> may ſoon
+perceive by my Accent <pb n="49" facs="tcp:51766:30"/>that I am a Foreigner. I had the
+Glory of following the Prince of <hi>Orange,</hi> (now our Au<g ref="char:EOLhyphen"/>ſpicious King)
+in his Expedition into <hi>England.</hi> We landed in the Weſt, with all
+thoſe Parti<g ref="char:EOLhyphen"/>culars, which are needleſs to re<g ref="char:EOLhyphen"/>peat. During our Stay at
+<hi>Exe<g ref="char:EOLhyphen"/>ter,</hi> I render'd my conſtant De<g ref="char:EOLhyphen"/>votion at the Cathedral; and in
+coming thence one Evening, an old Woman (with a Look as mean as a Beggar)
+preſented me a Letter; which, when I had open'd, I found from an Unknown, who
+ſtil'd himſelf my Friend, and gave me this Advice, That a Lady of good
+Country-Quality and Fortune, (and who was then in <hi>Exeter</hi>) was going to
+be diſpos'd of by <pb n="50" facs="tcp:51766:31"/>her Mother, to a Man ſhe no way
+affected: But that ſhe had been heard to ſay, <hi>If the hand<g ref="char:EOLhyphen"/>ſom</hi>
+Switzer <hi>were in his place, ſhe ſhou'd obey without Reluctancy.</hi> And
+concluded the Letter with giving me Advice, like a good Friend, to improve my
+grow<g ref="char:EOLhyphen"/>ing Fortune: For ſo conſider<g ref="char:EOLhyphen"/>able an one as Twelve Thou<g ref="char:EOLhyphen"/>ſand Pounds
+was not every Day thrown into a Soldier's Lap. I had forgot to tell your
+Ladyſhip the Letter was writ in French, and Directions of the Lady's Name and
+Lodgings. My Heart gave me a ſecret Pre<g ref="char:EOLhyphen"/>ſage that the Matter wou'd not be
+lucky to me, which I fol<g ref="char:EOLhyphen"/>low'd, and therefore took no notice of the Letter.
+Three <pb n="51" facs="tcp:51766:31"/>Days after, the ſame Old Wo<g ref="char:EOLhyphen"/>man brought me another
+much more preſſing: Upon which, I gave my ſelf blindly up to my
+Deſtiny. I viſited, and found the Lady, tho' not a Beauty, yet Genteel and
+Taking. 'Twas eaſie to gueſs by my Reception, that the Letters came from
+her. I'll omit the Diſcourſe we had, and only reſt upon Matter of Fact.
+She oblig'd me to leave my Command, and go with her to her Eſtate. Her Mother
+look'd upon me with an evil Eye; but my Miſtreſs was tranſportingly kind,
+and much concern'd that none of the Mi<g ref="char:EOLhyphen"/>niſters round durſt marry us, for
+fear of the Old Lady. Whereupon, we concluded I <pb n="52" facs="tcp:51766:32"/>ſhou'd
+pretend to take my Leave, as deſigning for <hi>Lon<g ref="char:EOLhyphen"/>don;</hi> but inſtead of
+that, go directly into <hi>Cornwall,</hi> where ſhe had a conſiderable
+Eſtate, and wou'd meet me. The Matter happen'd as we had agreed; but for fear
+her Mother ſhou'd purſue us, ſhe conſented to take me for her Husband
+before the Parſon cou'd be got to make us ſuch. That happy Night I had all
+the Reaſon in the World to believe my ſelf agreeable to her; and all was
+confirm'd in the Morning, by the Prieſt. Thus careſs'd, and bleſs'd, we
+return'd to her Houſe. The Old Lady (who had no Com<g ref="char:EOLhyphen"/>mand of her Daughter's
+For<g ref="char:EOLhyphen"/>tune, and ſaw the Buſineſs be<g ref="char:EOLhyphen"/>yond <pb n="53" facs="tcp:51766:32"/>Remedy) was
+with the firſt to make her Court to me, and wiſh me Joy. Three hap<g ref="char:EOLhyphen"/>py
+Months I had all the Satisfa<g ref="char:EOLhyphen"/>ction that innocent Marriage and exceſſive
+Love in a Bride cou'd give me. Then I began to conſider a little my Affairs,
+and propos'd to my Wife my being Naturaliz'd, that I might look after hers. She
+ſwounded at the Name; and when ſhe re<g ref="char:EOLhyphen"/>cover'd, ſhe ſnatch'd a Bayonet
+of mine, and wounded her ſelf under the Left Breaſt, but not much. I can't
+expreſs my Sur<g ref="char:EOLhyphen"/>prize: We huſh'd the Matter, for fear of her Mother; and I
+employ'd ſome of my Soldierly Skill to cure it, which had the Effect. I
+enquir'd into the Rea<g ref="char:EOLhyphen"/>ſon <pb n="54" facs="tcp:51766:33"/>of this Extravagancy. She told
+me, The Diſcovery of In<g ref="char:EOLhyphen"/>tereſt in me, when ſhe had be<g ref="char:EOLhyphen"/>liev'd Love was the
+only Mo<g ref="char:EOLhyphen"/>tive to our Marriage. Some Days paſs'd and as often as I offer'd at
+it, ſhe receiv'd ſuch mighty Diſguſt, that I reſolv'd to get it done
+without her No<g ref="char:EOLhyphen"/>tice; for ſhe took me not as a Husband, but a Lover. 'Tis
+true, I was receiv'd as a Gueſt, but not a Maſter; and my Cir<g ref="char:EOLhyphen"/>cumſtance
+(having left my Command) requir'd that. I got her Leave for my Journey: She
+ſhew'd ſuch extravagant Paſſion at our Separation, that I ſwore a
+ſpeedy Return; and reſolv'd to leave my Naturali<g ref="char:EOLhyphen"/>zation depending, look
+after <pb n="55" facs="tcp:51766:33"/>my other Affairs, and return within a Fortnight to
+her: But before that time I had a dan<g ref="char:EOLhyphen"/>gerous Fit of Sickneſs in
+<hi>Lon<g ref="char:EOLhyphen"/>don.</hi> I writ often to her, and gave her an Account, that the Act
+was Paſs'd, and I cou'd now happily call my ſelf an Engliſh Husband. She
+only anſwer'd, <hi>She knew how to in<g ref="char:EOLhyphen"/>terpret it; but ſhe was out in her
+Cunning, if I ſhou'd find an Eng<g ref="char:EOLhyphen"/>liſh Wife at my Service, who knew not the
+true Value and <g ref="char:V">Ʋ</g>ſe of one.</hi> This Letter damp'd me; but truſting to
+the Greatneſs of that Power Love had given me in her Heart, I did not
+queſtion but my Preſence wou'd make all things eaſie. I took Poſt, my
+Impatience wou'd not ſtay <pb n="56" facs="tcp:51766:34"/>the Coach, tho' the Remains of
+my Fever ſeem'd to expect it. I gave my ſelf no Reſt during the whole
+Journey. I ſent to give her notice of my Arrival: But what was my Surprize,
+to find all ſhut at home! I call'd under her Window, where I perceiv'd Light:
+'Twas a heavy Night of Rain: I knock'd at the Gates, and ſtorm'd, but all to
+no purpoſe; I was glad to take up my Lodging in the Porch. At Six in the
+Morning an Under-Servant appear'd: I ask'd for her Lady. She told me, <hi>She
+was gone none knew whither, and had convey'd away her Plate,</hi> &amp;c.
+<hi>So that, if I pleas'd, an empty Houſe was at my Service.</hi> I calmly
+bore all this, imagining it but <pb n="57" facs="tcp:51766:34"/>a Trial; ſought her round
+the Country, but in vain; ſhe of<g ref="char:EOLhyphen"/>ten ſhifted Places and went diſ<g ref="char:EOLhyphen"/>guis'd.
+Not long after ſhe commenc'd a Proceſs againſt me, and by a Pretence,
+(which will for ever make her noto<g ref="char:EOLhyphen"/>rious) render'd me to the Court as
+Incapable. I was ſtill ſo tender of her Fame, as to ſuffer the
+Aſpertion. Common Law ſeparated us: She got the better, by my refuſing to
+vindi<g ref="char:EOLhyphen"/>cate my ſelf, and I Fifteen Hun<g ref="char:EOLhyphen"/>dred Pounds of her Fortune, and the
+Charges of the Court. 'Tis ſince laſt <hi>Auguſt</hi> that this has
+happen'd. I have vainly try'd to remove her implacable Averſion, or to learn
+the Cauſe of it: But I ſee my Endeavours <pb n="58" facs="tcp:51766:35"/>are all
+fruitleſs; and I am now going to leave <hi>England,</hi> I think for
+ever.'</q>
+            </p>
+            <p>I complemented him upon his Misfortunes, and really, in my
+Opinion, he cou'd not be de<g ref="char:EOLhyphen"/>ſerving of them. <hi>Gad, Madam,</hi> ſpeaks
+<hi>Beaux, See what unconſtant Things you Ladies are! I happen'd to be at
+this Gentleman's Houſe when he was firſt marry'd, and ne<g ref="char:EOLhyphen"/>ver ſaw any
+thing ſo fond of him as his Wife. Gad, I don't believe, whatever Woman I make
+happy, tho' her Eſteem be equal to my Merit, ſhe can poſſibly be
+fonder.</hi>
+            </p>
+            <p>I am now got ſafely, wea<g ref="char:EOLhyphen"/>ry, into <hi>Exeter;</hi> and, I thank
+God, rid of the Impertinency of my Fellow-Travellers, <hi>Beaux</hi> ex<g ref="char:EOLhyphen"/>cepted,
+<pb n="59" facs="tcp:51766:35"/>who will ſee me ſafe home, tho' diſtant from his. The
+Cathedral here is very fine; the Biſhop's Seat in it ſurpaſſes
+<hi>Saliſ<g ref="char:EOLhyphen"/>bury,</hi> tho' ſhort in every thing elſe. Forgive me for
+leaving you thus abruptly, ſince 'tis more pleaſing<g ref="char:EOLhyphen"/>ly to entertain my
+ſelf with a Let<g ref="char:EOLhyphen"/>ter of yours juſt brought to me.</p>
+            <closer>
+               <signed>I am Moſt Conſtantly and Sincerely
+yours.</signed> 
+               <dateline>
+                  <hi>EXETER,</hi> 
+                  <date>
+                     <hi>Jun.</hi> 26. 1694.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="7" type="letter">
+            <head>LETTER VII.</head>
+            <p>IF I have omitted anſwering your Three laſt, it proceeded from
+nothing but the Deſire of <pb n="60" facs="tcp:51766:36"/>doing ſomething new; and you
+know 'tis extreamly ſo in<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, not
+eagerly to ſhew you all Teſtimo<g ref="char:EOLhyphen"/>nies of Friendſhip.—My Soli<g ref="char:EOLhyphen"/>tude is
+much more pleaſing than I fancy'd it: As yet I am not weary of that happy
+Indifferen<g ref="char:EOLhyphen"/>cy, which leaves me nothing ei<g ref="char:EOLhyphen"/>ther to hope or fear. 
+<q> 
+                  <l>Thus empty, and thus Idle do I live;</l> 
+                  <l>Nor Lov'd, nor Loving, can nor take, nor give.</l>
+               </q>
+            </p>
+            <p>I have moſt Foppiſh Letters from <hi>Beaux,</hi> who parted
+with a World of ſeeming Regret; and yet I hear he is endeavouring at a
+Miſtreſs. I ſuppoſe I may bid his Impertinence Farewell for 
+<pb n="61" facs="tcp:51766:36"/>ever: I think I bad you hope (in one of mine) to hear no
+more of him; I know not how I am fallen upon the nauſeous Repeti<g ref="char:EOLhyphen"/>tion.
+<hi>Themiſtocles</hi> refus'd <hi>Simoni<g ref="char:EOLhyphen"/>des,</hi> when he wou'd have taught
+him the Art of Memory; perti<g ref="char:EOLhyphen"/>nently ſaying, <hi>He had more need of
+Forgetfulneſs than Memory. I remember what I wou'd not, but I cannot forget
+what I wou'd.</hi> My Study has fallen upon Religion; I am ſearching into all
+ſorts: You ſhall not fail to hear what that Chance-Medley produces. I can
+now with cold Indifferen<g ref="char:EOLhyphen"/>cy ſhake Hands with all Things beyond this Solitude.
+How long the extraordinary Humour may laſt, I can't inform you at pre<g ref="char:EOLhyphen"/>ſent.
+I repeat with Stoical Pride, <pb n="62" facs="tcp:51766:37"/> 
+               <q> 
+                  <l>Keep me, ye Bounteous Gods, my Caves and Woods</l> 
+                  <l>In Peace: Let Tares and Acorns be my Food.</l>
+               </q>
+            </p>
+            <closer> 
+               <signed>Yours.</signed> 
+               <dateline>
+                  <date>
+                     <hi>July</hi> 10.
+1694.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>I Forgot to leave Orders with the <hi>Jew</hi> about the
+Choco<g ref="char:EOLhyphen"/>late: Pray, take care that it be ſent me, and excuſe this
+Trouble.</p>
+            </postscript>
+         </div>
+         <div type="note">
+            <p>☞ There happen'd a long Intercouſe between theſe
+Letters; but Bu<g ref="char:EOLhyphen"/>ſineſs unfit for the Publick keeps 'em at preſent
+conceal'd.</p>
+         </div>
+         <div n="8" type="letter">
+            <pb n="63" facs="tcp:51766:37"/>
+            <head>LETTER VIII.</head>
+            <p>I Am ſorry I can't make good my Promiſe to ſo indearing a
+Friend as your ſelf. Looking over my Papers, I find but one of Colonel
+<hi>Pack</hi>'s Letters in Imi<g ref="char:EOLhyphen"/>tation of the <hi>Portugal</hi>-Nuns: I
+certainly had Three, which he ſent to me for my Opinion; but Two are loſt,
+which I very much regret; and the more, becauſe I know not where he is, to
+repair it. I wou'd hear how you ap<g ref="char:EOLhyphen"/>prove his Stile. I think Imita<g ref="char:EOLhyphen"/>tion the
+hardeſt Part of Writing: It confines a Free-born Genius, which naturally
+loves Untrod Wilds; at leaſt, if I may gueſs at anothers by my own. And 
+<pb n="64" facs="tcp:51766:38"/>now I am ſpeaking of that, let me tell you, all thoſe
+Roman<g ref="char:EOLhyphen"/>tick Ideas of Retirements, which view'd at a diſtance, gives a
+raviſhing Proſpect, now I am Wedded, Bedded too, prove the worſt ſort
+of Matrimony; but 'tis only to ſuch a particular Friend as your ſelf, that
+I dare complain; to the remoter Sort I aſſume a Stoical Appetite and
+Air:—Tell them, the World, with all its gaudy Pleaſures, are but rich
+Deluſions, which at once corrupts our Senſes, and our Fame: That the little
+Spot of Earth I have choſe to fix my Face in, has more ſolid
+Enter<g ref="char:EOLhyphen"/>tainments, more real Innate De<g ref="char:EOLhyphen"/>lights, than the Glories of
+<hi>Ken<g ref="char:EOLhyphen"/>ſington:</hi> Then ſigh, and ſeem to <pb n="49" facs="tcp:51766:38"/>pity the
+more Elevated Part of the World, that can bury them<g ref="char:EOLhyphen"/>ſelves in Noiſe and
+Crowd.—But, let me tell you, there's no real Satisfaction without
+Conver<g ref="char:EOLhyphen"/>ſation. I have had ſo much of the Dead ſince I ſettled here, and
+(as I may ſay) nothing of the Living, for I find none deſerves the Name,
+that I wiſh for the Conjuring Art; and wou'd ra<g ref="char:EOLhyphen"/>ther converſe with the
+Ghoſts of the Departed, than always with their Books, or with my
+ſelf.—But I forget I detain you from better Company; I mean, the
+Incloſed. Write to me ſtill, but nothing of News; I mean to hear none, till
+I ſee <hi>London</hi> again; and when that will be, I have not the Pleaſure
+<pb n="50" facs="tcp:51766:39"/>ſo much as to imagine: 'Twill be new (to lie forgotten,
+and forgetting, and, as it were, be born with Underſtanding) to all the
+Vanities and Vertues (if any) of that <hi>Hydra.</hi>
+            </p>
+            <closer>
+               <signed>I am, SIR, With great Eſteem, Your Moſt,
+<hi>&amp;c.</hi>
+               </signed> 
+               <dateline>
+                  <date>
+                     <hi>March</hi> 15.
+1695.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="addendum">
+            <head>A Second Letter from a ſuppoſed Nun in <hi>Portugal,</hi>
+to a Gentle<g ref="char:EOLhyphen"/>man in <hi>France,</hi> in Imitation of the Five Letters in Print,
+by Colonel <hi>Pack.</hi>
+            </head>
+            <p>O My fled Heart, and he that ſo unjuſtly keeps it 
+<pb n="51" facs="tcp:51766:39"/>from me! Was not your barba<g ref="char:EOLhyphen"/>rous Reſolution ſufficient,
+that I ſhou'd never poſſeſs yours; but you muſt add the Uſe of all
+your beſt Art to keep me from my own? In what Diſorder do I ſpeak and
+write, for want of a poor tender Heart? That's gone a Pilgrimage to Love, and
+(the unkind Heavens not hearing its Prayer) has, through Diſtra<g ref="char:EOLhyphen"/>ction, loſt
+its Way, and never will return again. Fire ſets on Fire: Why then does not my
+Flame make you burn? 'Tis a falſe Maxim: Extremity of Cold ſcorches you.
+Had I at firſt put on a Behaviour more cool and remote to your pretended
+Affection, and treated you with Unkindneſs, how many
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <pb n="52" facs="tcp:51766:40"/>and Vows
+wou'd you have of-offer'd at Love's Altar? With what Ardency wou'd you have
+continu'd your Proteſtations? Who wou'd have thought that a Fire (at firſt)
+ſo well kindled as yours, ſhou'd need Fanning with an infectious Blaſt,
+to pre<g ref="char:EOLhyphen"/>ſerve its Heat? Or that the wholſome Sun ſhou'd put it out? But
+that, Alas! was my Miſ<g ref="char:EOLhyphen"/>fortune: My Burning was the greater, and drew yours
+away.—How can I then with any Confi<g ref="char:EOLhyphen"/>dence blame you for what I my ſelf
+was truly and principally the Occaſion of? You too eaſily perceiv'd how
+earneſtly I was wont to watch your Eyes, that they look'd not on others; as
+if mine took it unkindly they <pb n="53" facs="tcp:51766:40"/>were not gazed on altogether.
+How perverſe are our Fates! Why elſe was it not contriv'd that you might be
+as happy in me, as 'twas poſſible for me to be in you? Say what you will,
+you was to blame. What Care you took to aſſault my Affe<g ref="char:EOLhyphen"/>ctions, was
+ſufficiently diſcover<g ref="char:EOLhyphen"/>able in the conſtant Ardour and Formality of your
+Approaches; contriving to appear at all Times as Engaging as poſſible. Your
+Conqueſt was not ſo great: You cou'd not well have met with a Heart leſs
+fortified for a De<g ref="char:EOLhyphen"/>fence: Ye Gods! that I ſhou'd yield upon your very firſt
+Sum<g ref="char:EOLhyphen"/>mons; and ſo diſhonourably, that I was not allow'd Flying Colours! Nay,
+what's yet more; <pb n="54" facs="tcp:51766:41"/>That I ſhou'd bear ſo mean, low, and
+contemptible a Spirit, as to take infinitely more De<g ref="char:EOLhyphen"/>light in my own
+Vaſſalage and Captivity, than in the moſt flou<g ref="char:EOLhyphen"/>riſhing Tranquillity!
+What do I thus rave upon? What wou'd I have? If I am happy in my Condition, why
+do I not reſt, and retain my Senſes, like others of my Sex? But that
+ſtill (and, I fear, ever) I have the ſame ſad Tune to ſing: 
+<q rend="inline">'My Conqueror (whom I ador'd for being ſo) is
+gone; and my Cloyſter is now as much a Priſon to me, as 'twas Heaven, and
+Liber<g ref="char:EOLhyphen"/>ty, and all things, when I had him there. 'Twas an un<g ref="char:EOLhyphen"/>worthy Thing to
+ſteal my <pb n="55" facs="tcp:51766:41"/>better Part, my Soul, a<g ref="char:EOLhyphen"/>way; and not think this
+little Frame, its old Com<g ref="char:EOLhyphen"/>panion, worth taking with you. But what you had got,
+you thought, was of light Carriage, needed little Stow<g ref="char:EOLhyphen"/>age, paid no Freight,
+and (I dare ſtake my Life) was the All ever you intended to have of me: And
+to be ſo ſerv'd, is (it ſeems) the All I am ever likely to expect from
+you How groſly did I flatter my ſelf, and abuſe you, whenever I imagin'd
+you wou'd be kind and true to me! You that are ſo cruel, that cou'd you
+re<g ref="char:EOLhyphen"/>duce any other Woman in<g ref="char:EOLhyphen"/>to my ill Circumſtances, if there was a Third in
+the <pb n="56" facs="tcp:51766:42"/>World, you wou'd certainly leave the former, and there
+feign freſh Adorations. If there was not, yet purely to gratifie your
+Inhumanity to her, e<g ref="char:EOLhyphen"/>ven I, now ſlighted and neg<g ref="char:EOLhyphen"/>lected, ſhou'd then have
+your Company; for you cou'd not brook being put by a Plea<g ref="char:EOLhyphen"/>ſure of that kind,
+tho' it coſt you the Trouble of going to one who lov'd you more than the
+World.'—</q>
+            </p>
+            <p>How very odd (and as tho' you were writing to ſome pub<g ref="char:EOLhyphen"/>lick
+Place of Intelligence) was that Diſcourſe of yours, in your laſt Letter,
+concerning the great Lightning and Thunder which you ſay happen'd in your
+Parts! Alſo you deſire to know what <pb n="57" facs="tcp:51766:42"/>Weather we have had
+here. Is this fit to ſtuff in a Love-Letter? Truly, it might have thunder'd,
+lighten'd and rain'd, or it might have been very pleaſant, delight<g ref="char:EOLhyphen"/>ful
+Weather, for ought I know; for I am not capable of making any Remarks of that
+kind: But this I can inform you, being too ſure of the Truth of it, that it
+has been very ſtormy Weather in my Eyes ever ſince your Depar<g ref="char:EOLhyphen"/>ture; and
+until you return (the only Sun, whoſe Influence can diſperſe theſe
+Clouds) I fear 'twill ever be tempeſtuous. This Ac<g ref="char:EOLhyphen"/>count (it may be)
+pleaſes you more than if I had ſent you Word the ill weather had reach'd
+our Coun<g ref="char:EOLhyphen"/>try, demoliſh'd our Monaſtery, ſet me at Liberty, and I was in 
+<pb n="58" facs="tcp:51766:43"/>purſuit of you. Then, then how I wou'd glut my Revenge by
+the Incurſions of my Love! For it ſhould haunt you in all Places and
+Countries. And ſince it wore ſo much the Viſage of an Evil Spirit in your
+Conceit here, as to make you quit the Place, I wou'd try whether Change of Air
+wou'd al<g ref="char:EOLhyphen"/>ter its Complection and Features, ſo as to force you into a better
+Opinion of it, and be throughly reveng'd on you that Way: For, to love, I find,
+is the Unhappineſs you wou'd avoid, above all other Things: But your Appetite
+and Taſte is as much deprav'd, as my Project is vain and impracticable: I
+find the Sowr of <hi>France</hi> gratifies your Palate above the Sweets of
+<hi>Portugal;</hi> and a <hi>French</hi> Lady (with <pb n="59" facs="tcp:51766:43"/>her
+diſtant Regards to your Ad<g ref="char:EOLhyphen"/>dreſs, and (at laſt) counterfeit ar<g ref="char:EOLhyphen"/>tificial
+Acceptance ſhall engage you much more than the Loyal<g ref="char:EOLhyphen"/>ty, Integrity, Truth and
+Freedom of my unlimited Paſſion. Will not the World ſwear we are both
+mad: You for preferring a Coun<g ref="char:EOLhyphen"/>terfeit, (becauſe it gliſters) before the
+true Metal it ſelf, which is known to every Child, by its Weight: I for my
+Fidelity to ſo much Ingratitude. But let the World blame us as it pleaſes,
+I am reſolv'd to be as true to you, as you to your unnatural
+Incon<g ref="char:EOLhyphen"/>ſtancy.—To what a Degree of Bliſs ſhou'd I be advanc'd, if I
+cou'd find you complaining of the Remiſneſs of my Love, and admiring how
+intenſe was your <pb n="60" facs="tcp:51766:44"/>own: And I ſhou'd be but too happy, if
+that Fault was not found on your ſide, as (Alas!) to all the World too
+viſibly it is<g ref="char:punc">▪</g> And the ſame Conceptions you make of an Immenſity
+will but juſt ſerve you to fathom my Zeal, which (altho' cheriſh'd and
+prun'd after the moſt careful manner) is pro<g ref="char:EOLhyphen"/>ductive of nothing but the
+moſt bitter, ſowr and unpleaſant Fruits imaginable.—Your unkind
+Deal<g ref="char:EOLhyphen"/>ings and Actions to me are the Fruits of my extraordinary Paſ<g ref="char:EOLhyphen"/>ſion.
+What Soul cou'd imagine ſuch diſſonant Notes ſhou'd ſpring up, to
+interrupt the Harmony of my Affection? In what had you been the worſe, if my
+extream Kindneſs you had retaliated with but a little of yours; and altho' 
+<pb n="61" facs="tcp:51766:44"/>more than a little be my due, yet with the leaſt Grain I
+cou'd have wrought my own Contentment: But you are ſo unjuſt to deny all,
+and leave me to the haraſſing of a miſerable Deſpair; one Hour's
+Torment of which I wou'd not wiſh you ſhou'd endure, Ages to come, to be
+ſet free my ſelf; and yet no otherwiſe fond of my Condition, but as it is
+a Gift of yours, and which (for any thing leſs than your Love) I will ne<g ref="char:EOLhyphen"/>ver
+part with. Barbarous, Bar<g ref="char:EOLhyphen"/>barous! to deny me that, which you take more pains to
+throw away upon another, than I can do to obtain it. You ſhall not uſe me
+thus; indeed, you muſt not: 'Tis I ſay it, but you re<g ref="char:EOLhyphen"/>gard not that, ſo
+inſenſible you <pb n="62" facs="tcp:51766:45"/>are of my Condition; which, tho' never
+ſo unfortunate as to my own particular, yet is aggra<g ref="char:EOLhyphen"/>vated with Cares for
+your Wel<g ref="char:EOLhyphen"/>fare, who are the ſole Cauſe of my Unhappineſs. How you will
+reliſh this Letter I know not, I fear you will think there are too many
+Invectives againſt your Tyranny; in which I will agree with you my ſelf,
+and ask your Forgiveneſs: But, alas! they are as gentle as I cou'd
+poſſibly per<g ref="char:EOLhyphen"/>ſuade my Pen to drop; for, ſince you take ſo much
+pleaſure in a hard Heart, I wou'd not for the World any ways croſs you, by
+making you leſs obdurate; ſo tenderly I value your Satisfa<g ref="char:EOLhyphen"/>ction, and ſo
+little (for your ſake) my own. But, Oh! the <pb n="63" facs="tcp:51766:45"/>infinite
+Pleaſures you wou'd find in Love, if you thought them worth the looking
+after! Love (as it is, or is not mutual) is the trueſt Epitome of the
+Su<g ref="char:EOLhyphen"/>pernatural States: If mutual the Joys are laſting, and never cloy; if not,
+the Torments are intole<g ref="char:EOLhyphen"/>rable, yet muſt be endur'd. Oh, that any thing I
+cou'd ſay might diſſolve you to a Senſe of my miſerable Life; or,
+indeed, ra<g ref="char:EOLhyphen"/>ther your own! And yet, if it cou'd, in the leaſt, enter into my
+Thoughts that you are altoge<g ref="char:EOLhyphen"/>ther at Repoſe, I aſſure you, I wou'd never
+interrupt you; no Noiſe of my Afflictions ſhou'd ever be your
+Diſturbance: But I am very much miſtaken if you are altogether without
+Remorſe <pb n="64" facs="tcp:51766:46"/>for the Sufferings you have brought upon me. I
+remem<g ref="char:EOLhyphen"/>ber, you once was flexible, and of a compaſſionate Nature, and your
+Behaviour very like a Gen<g ref="char:EOLhyphen"/>tleman; whatever has miſ-gui<g ref="char:EOLhyphen"/>ded you to the Abuſe
+of my Fa<g ref="char:EOLhyphen"/>vours, which (if I have Know<g ref="char:EOLhyphen"/>ledge of my Heart) were (at firſt) much
+more for your ſake, than my own, you were the Ag<g ref="char:EOLhyphen"/>greſſor, and not I; and
+what<g ref="char:EOLhyphen"/>ever Kindneſs I ſhew'd you, was more to make me happy, than your
+ſelf; that by Charity to a Serpent, I at laſt was ſtung. 'Tis ſaid,
+that venomous Crea<g ref="char:EOLhyphen"/>tures have a Balſamick Qua<g ref="char:EOLhyphen"/>lity in themſelves, to cure
+the Wounds they make: But you (more unnatural than all the reſt) 
+<pb n="81" facs="tcp:51766:46"/>have none; at leaſt, moſt cruelly with-hold it from me.
+O Heaven! That I had but Power to contain my felf! That I had but Temper to be
+a little calm! But 'tis a Con<g ref="char:EOLhyphen"/>dition I have long ſince aban<g ref="char:EOLhyphen"/>don'd, and (till
+I ſee you again) will never re-aſſume. In the Rage I am in, I cou'd think
+you as many unkindneſſes, as, by and by, the Fury of Love wou'd find a Task
+to unravel; for if one Half Hour I blame you, in the next I call it
+Injuſtice. So careful I am that no ill Thought of you appear deſerving,
+that were you worſe than you are, my Pleaſure wou'd conſiſt in be<g ref="char:EOLhyphen"/>ing
+flatter'd that you are better than I think you: Nay, Some<g ref="char:EOLhyphen"/>times I perſuade my
+ſelf that you <pb n="82" facs="tcp:51766:47"/>are a Man of the greateſt Juſtice in
+the World; and that 'tis not even in your Nature (wilfully) to do an unequal
+Thing. But 'tis moſt certain, I am doom'd to a fruitleſs Love, without the
+leaſt Poſſibility of a Deliverance. Indeed, formerly I had a faint
+Proſpect (as I thoght) of being in ſome meaſure reſtor'd; but I look'd
+through falſe Glaſſes, that preſented me with a wrong Ob<g ref="char:EOLhyphen"/>ject; and
+ſince that, I have done the great Work of learning to be well ſatisfied
+with my intole<g ref="char:EOLhyphen"/>rable Condition. Did my Love run parallel with what is com<g ref="char:EOLhyphen"/>monly
+found in the World, it wou'd not be ſo deſperate.—Happy they, who (in
+a Pett, or upon ſome ſmall Diſguſt) can <pb n="83" facs="tcp:51766:47"/>recede from
+their Paſſions, and ſet up for new ones elſewhere; and whatever they
+pretend, Self-is the greateſt Thing. This is the Way of Amouring moſt in
+Fa<g ref="char:EOLhyphen"/>ſhion: This is that Impoſture that prevails upon ſo many tender
+Hearts: And in Caſes of Denial, very artificially can uſurp Lan<g ref="char:EOLhyphen"/>guiſhing
+Eyes, want no expreſſive paſſionate Inſinuations, counter<g ref="char:EOLhyphen"/>feit
+Melancholy and Diſtraction; and all to ſerve ſome baſe by-End. If this
+had been the Qua<g ref="char:EOLhyphen"/>lity of my Love, the Vengeance you aſſign me had then been
+merited. I verily believe, if it had had but the leaſt Tincture of Treachery,
+I ſhou'd have won your Heart, ſhou'd have made you jealous: And that Temper
+<pb n="84" facs="tcp:51766:48"/>would have been very inconſi<g ref="char:EOLhyphen"/>ſtent with your
+Reſolutions to make a thorough Conqueſt: Nothing leſs than which (to a
+Man of Proweſs like you) cou'd have been a real Pleaſure. Yes, yes; 'tis
+very plain, If my Paſ<g ref="char:EOLhyphen"/>ſion had been forg'd, and bore a falſe Accent, it
+wou'd certainly much better have agreed with yours, as being much nearer
+re<g ref="char:EOLhyphen"/>lated; but the fatal Conſequence (of a true Fervency, return'd with fair
+Aſſurances, and foul Actions) none knows, but the wretched, ſolitary I.
+Upon the whole, I think verily I love you becauſe you make me miſerable. If
+that be true, go on, be ſig<g ref="char:EOLhyphen"/>naliz'd to the World for your Unkindneſs, that
+the more I may <pb n="85" facs="tcp:51766:48"/>be ſo, for my unaccountable Af<g ref="char:EOLhyphen"/>fection.
+That I love you, Heaven knows; you know, elſe I ſhou'd ſee you here again
+cringing out the feign'd Allegations of your Sincerity, tho' much more
+diſtant than we are. Oh, that we were to begin again! What Courſe wou'd I
+then take! I fear, e'en fool my ſelf, as I have done; for, ſince I know no
+greater Pleaſure than the Love of you, I ſhou'd too willingly run the Risk
+of any Diſadvantage that cou'd happen by it. I die a Thouſand Deaths every
+Hour, and ſtill revive, to die them o'er again: Adieu. What cou'd not I
+endure for your ſake! I have at this Mo<g ref="char:EOLhyphen"/>ment ſo lively an <hi>Idea</hi> of
+you, that I almoſt fancy you here in <pb n="86" facs="tcp:51766:49"/>Perſon. Methinks,
+how very kind you are! How affectionate<g ref="char:EOLhyphen"/>ly you condole me for the Tor<g ref="char:EOLhyphen"/>ments I
+have ſuffer'd in your Abſence; and how thankful I am to you for them! How
+you preſs my Hand, and ſwear you will never part with me! And, Ah,
+<hi>Monſieur!</hi> How I believe you, for being hitherto ſo
+faith<g ref="char:EOLhyphen"/>ful!—Once more, Adieu. I think I never writ to you in my Life, but
+their Length made 'em ſtay'd for. The Poſt (at my Requeſt) has waited a
+great while, and I am now ſent to; I wonder, elſe, when I ſhou'd give
+off. You may judge a little of my Condition, when you ſee even hurrying
+Poſt-haſte it ſelf can admit of a Delay, to pleaſe <pb n="87" facs="tcp:51766:49"/>me. The Actions of all People that ſee me, are deſignedly kind,
+and of a Deſire to divert me. One takes me by the Hand, beg<g ref="char:EOLhyphen"/>ging of me to be
+chearful, and leave my unprofitable Thinking; ſhewing me good Reaſon for
+it: But, Alas! I find Reaſon and Love two very ſeparate Things, not at all
+influencing each other. To Day a Siſter brought me Variety of the beſt
+Fruits; of which, nothing but a piece of a Pomgranate cou'd I be
+perſua<g ref="char:EOLhyphen"/>ſuaded to eat. 'Tis poſſible, I might thank her, but am not
+ſure I had ſo much Manners: Every Body excuſes my Ill Breed<g ref="char:EOLhyphen"/>ing, but much
+wonder at my Alteration. The Rigour and Severity of our Religion can 
+<pb n="88" facs="tcp:51766:50"/>diſpence with many great Faults in me, that it will not
+allow in others. What ſhall I do? Well, I have only one thing more
+(be<g ref="char:EOLhyphen"/>ſides a Thouſand) to ſay to you; which is, That if you can have
+regard for any one Sentence in this Letter, it may be too this laſt, <hi>I
+implore you to let me ſee you in</hi> Portugal <hi>before I die.</hi> A<g ref="char:EOLhyphen"/>dieu,
+Adieu.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:51766:50"/>
+         </div>
+      </back>
+   </text>
+</TEI>
